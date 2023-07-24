@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the IMDb Top 1000 Movies Overview Dashboard, where cinematic wonders await! Discover a curated collection of the most beloved and acclaimed films of all time. Dive into insightful charts, graphs, and filters to explore genres, release years, and ratings. Uncover the magic of cinema in one place. Lights, camera, and action!
+Welcome to the IMDb Top 1000 Movies Overview Dashboard, where cinematic wonders await! Discover a curated collection of the most beloved and acclaimed films of all time. Dive into insightful and interactive charts, graphs, and filters to explore genres, release years, and ratings. Uncover the magic of cinema in one place. Lights, camera, and action!
 
 ## Tools
 * Tableau is the preferred tools for vizualisation in this project.
