@@ -9,7 +9,7 @@ This project is an overview on Top movies on IMDb. details about 1000 movies wer
 * Microsoft Excel was used to for data cleaning.
 
 ## Data visualization
-
+![image of the dashboard](~/Users/daddymeissner/Desktop/IMDb top 1000 movies.png)
 
 ## Insights
 * U(Universal) was the top certificate in the dataset.
