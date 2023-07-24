@@ -9,9 +9,12 @@ Welcome to the IMDb Top 1000 Movies Overview Dashboard, where cinematic wonders 
 
 * Microsoft Excel was used to for data cleaning.
 
+  
+[Link to the Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows/discussion)
+
 ## Data Dictionary
 * Poster_Link - Link of the poster that imdb using
-* Series_Title = Name of the movie
+* Series_Title - Name of the movie
 * Released_Year - Year at which that movie released
 * Certificate - Certificate earned by that movie
 * Runtime - Total runtime of the movie
@@ -27,7 +30,7 @@ Welcome to the IMDb Top 1000 Movies Overview Dashboard, where cinematic wonders 
 ## Data visualization
 
 ![IMDb top 1000 movies](https://github.com/Datalens0/IMDb-Top-1000-movies/assets/115855053/b79bde6e-f135-4097-b4c2-390c9f5226b3)
-[Link to the dashboard on tableau](https://public.tableau.com/views/IMDbtop1000movies/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+[Link to the dashboard on TABLEAU](https://public.tableau.com/views/IMDbtop1000movies/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 ## Insights
 * U (Universal) was the top certificate in the dataset.
